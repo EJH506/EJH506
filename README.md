@@ -1,5 +1,3 @@
-
-
 <!-- header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
@@ -17,7 +15,7 @@
   작지만 꾸준한 발걸음이면 도달하지 못할 곳이 없다고 생각합니다. <br />
   묵묵하지만 끈질긴 노력들로 꿈을 일궈나가고 싶은 개발자입니다.✨
 </div>
-<br /><br />
+<br />
 
 <div>
 <h2 width="50px">🔧 기술 스택</h2>
@@ -47,7 +45,7 @@
 <!-- JQuery -->
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
-<br /><br />
+<br />
 
 <div>
 <h2>🌱 학습중</h2>
@@ -64,13 +62,12 @@
 <!-- docker -->
 <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 </div>
-<br /><br />
+<br />
 
 <h2>📚 프로젝트</h2>
 <details align="center">
 <summary>펼쳐보기</summary>
 <br />
-
 
 <!-- 육멍일지 : 깃허브핀 -->
 <a href="https://github.com/UJH506/puppydiary">
@@ -81,7 +78,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UJH506&repo=newMilkyWay" />
 </a>
 </details>
-<br /><br />
+<br />
 
 <h2>⚙ 통계</h2>
 <div>
@@ -94,14 +91,14 @@
 <a href="https://github.com/UJH506">
   <img src="https://github-readme-stats.vercel.app/api?username=UJH506&count_private=true&show_icons=true&theme=dracula&line_height=20" />
 </a>
-<br /><br /><br />
+<br /><br />
 
 <div align="center">
 <!-- hit count -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUJH506%2Fhit-counter&count_bg=%236A97F7&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
 </div>
-<br /><br /><br /><br />
+<br /><br /><br />
 
 <!-- footer -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
