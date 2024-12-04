@@ -3,7 +3,7 @@
 
 <div align="center">
 <!-- 타이핑 애니메이션 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&duration=4000&pause=1000&color=6A97F7&center=true&vCenter=true&width=435&lines=welcome+to+JIHYE'S+GitHub+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&duration=2500&pause=1500&color=6A97F7&center=true&vCenter=true&width=435&lines=welcome+to+JIHYE's+GitHub+!" alt="Typing SVG" /></a>
 </div> 
 
 
