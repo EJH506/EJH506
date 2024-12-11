@@ -61,10 +61,10 @@
 
 <!--
 
-<!-- SPRING Security -->
+SPRING Security
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 
-<!-- AWS EC2 -->
+AWS EC2
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 
 -->
