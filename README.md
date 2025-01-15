@@ -80,12 +80,12 @@ AWS EC2
 <br />
 
 <!-- 육멍일지 : 깃허브핀 -->
-<a href="https://github.com/EJH506/puppydiary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EJH506&repo=puppydiary" />
+<a href="https://github.com/EJH506/puppy-diary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EJH506&repo=puppy-diary" />
 </a>
 <!-- 은하수책방 : 깃허브핀 -->
-<a href="https://github.com/EJH506/newMilkyWay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EJH506&repo=newMilkyWay" />
+<a href="https://github.com/EJH506/new-milkyway">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EJH506&repo=new-milkyway" />
 </a>
 </details>
 <br />
