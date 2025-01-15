@@ -42,9 +42,6 @@
 <!-- JS -->
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 
-<!-- JQuery -->
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
-
 <br />
 <!-- GitHub -->
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
@@ -58,6 +55,9 @@
 <h2>🌱 학습중</h2>
 <!-- SPRING -->
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+
+<!-- JQuery -->
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
 
 <!--
 
@@ -80,12 +80,12 @@ AWS EC2
 <br />
 
 <!-- 육멍일지 : 깃허브핀 -->
-<a href="https://github.com/UJH506/puppydiary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UJH506&repo=puppydiary" />
+<a href="https://github.com/EJH506/puppydiary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EJH506&repo=puppydiary" />
 </a>
 <!-- 은하수책방 : 깃허브핀 -->
-<a href="https://github.com/UJH506/newMilkyWay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UJH506&repo=newMilkyWay" />
+<a href="https://github.com/EJH506/newMilkyWay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EJH506&repo=newMilkyWay" />
 </a>
 </details>
 <br />
@@ -93,19 +93,19 @@ AWS EC2
 <h2>⚙ 통계</h2>
 <div align="center">
 <!-- 언어사용량통계 -->
-<a href="https://github.com/UJH506">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UJH506&layout=compact&exclude_repo=lottoProj,mykakao-ui-copy,myrealtrip-ui-copy" />
+<a href="https://github.com/EJH506">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJH506&layout=compact&exclude_repo=lottoProj,mykakao-ui-copy,myrealtrip-ui-copy" />
 </a>
   
 <!-- 내 깃허브 통계 -->
-<a href="https://github.com/UJH506">
-  <img src="https://github-readme-stats.vercel.app/api?username=UJH506&count_private=true&show_icons=true&theme=dracula&line_height=20" />
+<a href="https://github.com/EJH506">
+  <img src="https://github-readme-stats.vercel.app/api?username=EJH506&count_private=true&show_icons=true&theme=dracula&line_height=20" />
 </a>
 <br /><br />
 
 
 <!-- hit count -->
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUJH506%2Fhit-counter&count_bg=%236A97F7&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEJH506%2Fhit-counter&count_bg=%236A97F7&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
 
 <br /><br /><br />
