@@ -81,15 +81,15 @@ AWS EC2
   
 <!-- 백엔드 모의고사 : 깃허브핀 -->
 <a href="https://github.com/EJH506/backend-mock-exam">
-  <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=EJH506&repo=backend-mock-exam" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EJH506&repo=backend-mock-exam" />
 </a>
 <!-- 육멍일지 : 깃허브핀 -->
 <a href="https://github.com/EJH506/puppy-diary">
-  <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=EJH506&repo=puppy-diary" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EJH506&repo=puppy-diary" />
 </a>
 <!-- 은하수책방 : 깃허브핀 -->
 <a href="https://github.com/EJH506/new-milkyway">
-  <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=EJH506&repo=new-milkyway" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EJH506&repo=new-milkyway" />
 </a>
 </details>
 <br />
